@@ -150,8 +150,6 @@ com.example.game=nice:-18,target_fps:90,force_performance:true,no_touch_boost:fa
 2. Reboot your device.
 3. Open **Termux** and run `anictl status` to verify the daemon is running.
 
-> **Note:** The module requires the pre-compiled `anioptimizerd` binary. Build it with `termux_build.sh` if not included.
-
 ---
 
 ## 🪵 Logs
