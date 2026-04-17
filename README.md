@@ -1,6 +1,7 @@
 # ⚡ AniOptimizer V4
 <img src="https://raw.githubusercontent.com/mrk9091/AnioptimizerV4/main/file_00000000dd7472089f3ee4f476cb3572.png" alt="AniOptimizer V4 Banner" width="100%"/>
-> **Native C Gaming Daemon for Android — Magisk / KernelSU Module**
+
+**Native C Gaming Daemon for Android — Magisk / KernelSU Module**
 
 AniOptimizer is a root module that runs a native C daemon (`anioptimizerd`) in the background to intelligently optimize your Android device for gaming. It goes far beyond simple governor tweaks — it watches your games in real time, learns from your device, and applies fine-grained kernel and scheduler controls to deliver smoother frames with less heat.
 
